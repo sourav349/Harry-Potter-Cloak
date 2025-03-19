@@ -1,4 +1,6 @@
-This is a beginner level computer vision project implemented using opencv with python as its language.
+# Harry-Potter-Cloak
+
+## This is a beginner level computer vision project implemented using opencv with python as its language.
 
 Concepts used :
 
